@@ -38,6 +38,8 @@ Timeline:
  
  The competition organizers reserve the right to update the contest timeline if they deem it necessary.
 
- Links:
+Links:
 
-  https://www.kaggle.com/competitions/playground-series-s5e4
+ https://www.kaggle.com/competitions/playground-series-s5e4
+
+ https://www.kaggle.com/code/les1781/listening-time-prediction-playground-series-s5-e4
